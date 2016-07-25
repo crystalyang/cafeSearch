@@ -28,15 +28,7 @@
         android:layout_marginBottom="1dp"
         android:textSize="20dp" />
 
-    <TextView
-        android:id="@+id/item_rate"
-        android:layout_width="match_parent"
-        android:layout_height="64dp"
-        android:layout_toRightOf="@+id/item_address"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="0dp"
-        android:layout_marginTop="8dp"
-        android:textSize="15dp" />
+
     <TextView
         android:id="@+id/item_address"
         android:layout_width="match_parent"
@@ -47,5 +39,14 @@
         android:layout_marginRight="0dp"
         android:layout_marginTop="8dp"
         android:textSize="15dp" />
+    <TextView
+        android:id="@+id/item_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="32dp"
+        android:layout_toRightOf="@+id/item_title"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="10dp"
+        android:textSize="13dp" />
 
 </RelativeLayout>

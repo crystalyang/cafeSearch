@@ -3,10 +3,12 @@ package com.android.crystal.cafe;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.util.Comparator;
+
 /**
  * Created by Crystal on 7/22/16.
  */
-public class cafe {
+public class cafe implements Comparator<cafe>{
     private String id;
     private String icon;
     private String name;
@@ -65,6 +67,8 @@ public class cafe {
 
     public Double getRate(){return rate;}
 
+    public int getRanking(){return (int)(rate * 10);}
+
     public void setRate(String rate){this.rate = Double.parseDouble(rate);}
 
     static cafe jsonToPontoFreferencia(JSONObject pontoFeferencia) {
@@ -92,6 +96,12 @@ public class cafe {
         }
         return null;
     }
+
+    @Override
+    public int compare(cafe o1, cafe o2) {
+        return o1.getRate().compareTo(o2.getRate());
+    }
+
 
 
 //    @Override

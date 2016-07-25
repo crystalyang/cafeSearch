@@ -4,27 +4,33 @@ package com.android.crystal.cafe;
  * Created by Crystal on 7/24/16.
  */
 
-import android.graphics.drawable.Drawable;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
-
-import java.io.InputStream;
-import java.net.URL;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder> {
-//    private String[] itemsData;
     private ArrayList<cafe> cafesList;
     private int Size;
 
     public RecyclerViewAdapter(ArrayList<cafe> itemsData, int size) {
-        this.cafesList = itemsData;
+        Collections.sort(itemsData,new cafe());
+        ArrayList<cafe> list = new ArrayList<cafe>();
+        for(int i=itemsData.size()-1 ; i!=0; i--){
+
+            list.add(itemsData.get(i));
+        }
+
+        this.cafesList = list;
         this.Size = size;
     }
+
+
+
+
 
     @Override
     public RecyclerViewAdapter.ViewHolder onCreateViewHolder(ViewGroup parent,
