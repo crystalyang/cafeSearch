@@ -31,21 +31,4 @@ public class MainActivity extends FragmentActivity {
 
     }
 
-//    @Override
-//    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-//        if (requestCode == 1) {
-//            if (resultCode == RESULT_OK) {
-//                Place place = PlaceAutocomplete.getPlace(this, data);
-//                Log.i(TAG, "Place: " + place.getName());
-//            } else if (resultCode == PlaceAutocomplete.RESULT_ERROR) {
-//                Status status = PlaceAutocomplete.getStatus(this, data);
-//                // TODO: Handle the error.
-//                Log.i(TAG, status.getStatusMessage());
-//
-//            } else if (resultCode == RESULT_CANCELED) {
-//                // The user canceled the operation.
-//            }
-//        }
-//    }
-
 }

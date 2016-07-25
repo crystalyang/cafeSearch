@@ -167,7 +167,7 @@ public class MapFragment extends Fragment implements OnMapReadyCallback {
         ArrayList<cafe> cafeList = service.findCafes(currentLoc.latitude, currentLoc.longitude, "cafe");
         for (int i = 0; i < cafeList.size(); i++) {
             cafe cafeDetail = cafeList.get(i);
-            Log.e(TAG, "CAFE:" + cafeDetail.getName());
+            //Log.e(TAG, "CAFE:" + cafeDetail.getName());
         }
         return cafeList;
     }
