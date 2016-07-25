@@ -29,12 +29,10 @@ public class ViewPagerAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         switch (position) {
 
-            // Open FragmentTab1.java
             case 0:
                 MapFragment fragmenttab1 = new MapFragment();
                 return fragmenttab1;
 
-            // Open FragmentTab2.java
             case 1:
                 ListFragment fragmenttab2 = new ListFragment();
                 return fragmenttab2;
