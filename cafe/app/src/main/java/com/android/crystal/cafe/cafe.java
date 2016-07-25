@@ -11,6 +11,7 @@ public class cafe {
     private String icon;
     private String name;
     private String vicinity;
+    private Double rate;
     private Double latitude;
     private Double longitude;
 
@@ -62,6 +63,10 @@ public class cafe {
         this.vicinity = vicinity;
     }
 
+    public Double getRate(){return rate;}
+
+    public void setRate(String rate){this.rate = Double.parseDouble(rate);}
+
     static cafe jsonToPontoFreferencia(JSONObject pontoFeferencia) {
         try {
             cafe result = new cafe();
@@ -73,6 +78,14 @@ public class cafe {
             result.setName(pontoFeferencia.getString("name"));
             result.setVicinity(pontoFeferencia.getString("vicinity"));
             result.setId(pontoFeferencia.getString("id"));
+            //result.rate = Double.parseDouble(pontoFeferencia.getString("rating"));
+            if(pontoFeferencia.has("rating")) {
+                result.setRate(pontoFeferencia.getString("rating"));
+            }else{
+                result.setRate("0");
+            }
+
+
             return result;
         } catch (JSONException ex) {
 
@@ -81,8 +94,8 @@ public class cafe {
     }
 
 
-    @Override
-    public String toString() {
-        return "Place{" + "id=" + id + ", icon=" + icon + ", name=" + name + ", latitude=" + latitude + ", longitude=" + longitude + '}';
-    }
+//    @Override
+//    public String toString() {
+//        return "Place{" + "id=" + id + ", icon=" + icon + ", name=" + name + ", latitude=" + latitude + ", longitude=" + longitude + '}';
+//    }
 }

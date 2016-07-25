@@ -4,6 +4,7 @@ package com.android.crystal.cafe;
  * Created by Crystal on 7/24/16.
  */
 
+import android.graphics.drawable.Drawable;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -11,6 +12,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import java.io.InputStream;
+import java.net.URL;
 import java.util.ArrayList;
 
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapter.ViewHolder> {
@@ -43,21 +46,25 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         // - replace the contents of the view with that itemsData
 
         viewHolder.txtViewTitle.setText(cafesList.get(position).getName());
-        //viewHolder.imgViewIcon.setImageResource(Integer.parseInt(cafesList.get(position).getIcon()));
+        viewHolder.txtViewRate.setText(cafesList.get(position).getRate().toString());
+        viewHolder.txtViewAdd.setText(cafesList.get(position).getVicinity());
 
 
     }
+
 
     // inner class to hold a reference to each item of RecyclerView
     public static class ViewHolder extends RecyclerView.ViewHolder {
 
         public TextView txtViewTitle;
-        public ImageView imgViewIcon;
+        public TextView txtViewRate;
+        public TextView txtViewAdd;
 
         public ViewHolder(View itemLayoutView) {
             super(itemLayoutView);
             txtViewTitle = (TextView) itemLayoutView.findViewById(R.id.item_title);
-            imgViewIcon = (ImageView) itemLayoutView.findViewById(R.id.item_icon);
+            txtViewRate = (TextView) itemLayoutView.findViewById(R.id.item_rate);
+            txtViewAdd = (TextView) itemLayoutView.findViewById(R.id.item_address);
         }
     }
 
