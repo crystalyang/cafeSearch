@@ -28,7 +28,6 @@ public class cafeService {
 
     public ArrayList<cafe> findCafes(double latitude, double longitude, String placeSpacification){
         String urlString = makeUrl(latitude, longitude);
-//        String urlString = makeUrl(latitude, longitude, placeSpacification); //for type
         try{
             String json = getJSON(urlString);
             System.out.println(json);
@@ -51,8 +50,7 @@ public class cafeService {
         }
         return null;
     }
-//
-//    private String makeUrl(double latitude, double longitude, String place) {
+
     private String makeUrl(double latitude, double longitude){
         StringBuilder urlString = new StringBuilder(
                 "https://maps.googleapis.com/maps/api/place/search/json?"
@@ -63,7 +61,7 @@ public class cafeService {
         urlString.append(Double.toString(latitude));
         urlString.append(",");
         urlString.append(Double.toString(longitude));
-        urlString.append("&radius=1000");
+        urlString.append("&radius=3000");
         urlString.append("&types=cafe");
         urlString.append("&sensor=false&key="+ API_KEY);
 

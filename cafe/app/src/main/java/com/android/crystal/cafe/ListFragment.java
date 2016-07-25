@@ -3,26 +3,19 @@ package com.android.crystal.cafe;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Context;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.support.v7.widget.RecyclerView;
-
-import com.google.android.gms.maps.CameraUpdateFactory;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
-import com.google.android.gms.maps.model.CameraPosition;
 import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.MarkerOptions;
+
 
 import java.util.ArrayList;
-import java.util.concurrent.ExecutionException;
+
 
 
 public class ListFragment extends Fragment {
@@ -37,16 +30,6 @@ public class ListFragment extends Fragment {
     private static View rootView;
     private RecyclerViewAdapter mAdapter;
 
-//    @Override
-//    public void onCreate(Bundle savedInstanceState){
-//        super.onCreate(savedInstanceState);
-//
-//        //init dataset here;
-//
-//
-//
-//
-//    }
 
 
     public ListFragment() {
@@ -85,7 +68,7 @@ public class ListFragment extends Fragment {
 
             cafesList = result;
             Size = result.size();
-           // mAdapter.notifyDataSetChanged();
+
             mAdapter = new RecyclerViewAdapter(cafesList,Size);
             mRecyclerView.setAdapter(mAdapter);
 
@@ -100,10 +83,6 @@ public class ListFragment extends Fragment {
         protected ArrayList<cafe> doInBackground(String... arg0) {
             cafeService service = new cafeService(apiKey);
             ArrayList<cafe> cafeList = service.findCafes(currentLoc.latitude, currentLoc.longitude, "cafe");
-            for (int i = 0; i < cafeList.size(); i++) {
-                cafe cafeDetail = cafeList.get(i);
-               // Log.e(TAG, "CAFE:" + cafeDetail.getName());
-            }
 
             return cafeList;
         }

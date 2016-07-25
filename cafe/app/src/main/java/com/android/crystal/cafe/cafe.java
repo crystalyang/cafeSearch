@@ -67,8 +67,6 @@ public class cafe implements Comparator<cafe>{
 
     public Double getRate(){return rate;}
 
-    public int getRanking(){return (int)(rate * 10);}
-
     public void setRate(String rate){this.rate = Double.parseDouble(rate);}
 
     static cafe jsonToPontoFreferencia(JSONObject pontoFeferencia) {
@@ -82,7 +80,6 @@ public class cafe implements Comparator<cafe>{
             result.setName(pontoFeferencia.getString("name"));
             result.setVicinity(pontoFeferencia.getString("vicinity"));
             result.setId(pontoFeferencia.getString("id"));
-            //result.rate = Double.parseDouble(pontoFeferencia.getString("rating"));
             if(pontoFeferencia.has("rating")) {
                 result.setRate(pontoFeferencia.getString("rating"));
             }else{
@@ -103,9 +100,4 @@ public class cafe implements Comparator<cafe>{
     }
 
 
-
-//    @Override
-//    public String toString() {
-//        return "Place{" + "id=" + id + ", icon=" + icon + ", name=" + name + ", latitude=" + latitude + ", longitude=" + longitude + '}';
-//    }
 }
