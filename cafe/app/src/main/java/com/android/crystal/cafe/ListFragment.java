@@ -45,7 +45,6 @@ public class ListFragment extends Fragment {
         mRecyclerView = (RecyclerView) rootView.findViewById(R.id.recyclerView);
         mLayoutManager = new LinearLayoutManager(getActivity());
         mRecyclerView.setLayoutManager(mLayoutManager);
-        new getCafes(getActivity(), cafes[0].toLowerCase().replace("-", "_")).execute();
 
 
         return rootView;

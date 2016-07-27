@@ -1,0 +1,886 @@
+{
+html_attributions: [ ],
+next_page_token: "CoQC-QAAAIsdRg9vuPUK6VFHxD2VNKUmg24GfBq-NyIYhQ_cGR15OnGogDT50QkbJzB8X7MSpMwe5ma8gp6_LZVBkI5n3ZdQD4FcYuGlDu8FywD9f8FW4xQVOwIi_g4imbjXwcNXcP17cnGRDpkYuNYR33r6j-qNmiCcXiGBeYOG6n9Kl0Aphk6ZzO5IjRmCdDhF62hIo7dAN8W0z6-WnLil5w0nFjMoX3y7HiuR4gs38MFNsDX6QK7qqF9jjNZPCFlYaoNq1iUhlfishUCfNtMJsia0Roqi81cg4sxuRVwnPeQaS-W-AQAeLEFY5BNsjCMctgz6-OJYx973_wGMQxPR5Ph9py4SED09SehI_LUvr1TNoyJpWmEaFPwXh9Z2Hwi4ANV3X84fdTEJRc3N",
+results: [
+{
+geometry: {
+location: {
+lat: 37.3336747,
+lng: -121.8900389
+},
+viewport: {
+northeast: {
+lat: 37.33389085,
+lng: -121.8899843
+},
+southwest: {
+lat: 37.33302625,
+lng: -121.8902027
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+id: "3cd3c0de29aefdbbf1b00f993d4d5d4779ff9c5e",
+name: "San Jose Museum of Art",
+opening_hours: {
+open_now: false,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 267,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/103556187968109229822/photos">San Jose Museum of Art</a>"
+],
+photo_reference: "CoQBcwAAAPw7gY2I4dfflsP39Dn6vpS2ayN3rda58tW9MrfsSyUnDA4fm3uAJhhlX-6xkvN_CatlazsMT6TsudyFylj7VC96KTb35ssYEJaZxce78KXO6aLrfcNEYyZyJjy5iiUKC9V0woQBNjIn2UKEOwqY6jN4kqwaAGFF7nbG9uOJszZ4EhCUNNg-bRtvWE1IRijmwc36GhQ-bcbbEWsADhyDLw0lo796vJZWew",
+width: 267
+}
+],
+place_id: "ChIJVx91TrvMj4ARzWqeIcRwuXs",
+rating: 3.7,
+reference: "CnRpAAAAr8vFS5dnom6J_6PLnkv3ls_u0GT63AN9U3Gdhxuu1B8Szy7o6WzyN1C1kQ53Vm8IA3JvW-sviJi_n6Tya95kIwPR7MCAHH5WfvLvM-zwB8I68N0SzLyTOtuXNaBs851sl6nyNvd_S7RBdUjqZO4IGxIQShq80OcQEk60X8WlsuyUfxoUIFwARPkllQdkjDLZIOynW_rueCY",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"museum",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "110 South Market Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3374011,
+lng: -121.8884236
+},
+viewport: {
+northeast: {
+lat: 37.33747340000001,
+lng: -121.88826355
+},
+southwest: {
+lat: 37.3371842,
+lng: -121.88847695
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "4842b26e7f62515e0173ac8cc80815b8cec4b5c9",
+name: "Starbucks",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 3264,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/103833910632916854281/photos">Roxie Zhao</a>"
+],
+photo_reference: "CoQBcwAAAOckHPEd6MmOR170ubP0csodDvwwP4o0uV5I_c4kq0B17fkLSR0-L8CL86We5m6w42aqKnCG7ZzgSyxpLpMqPFgAPFa1XRpCSYl7ehIV_9tUDiUJTLZWYQGxXZDKk6Nf8Wd_sgZ9X_tIwwtWnJYsI3gE5r71upvGkhoOwLgUY6hbEhDUgMC1oF97VUT9JZNGkBO9GhRM32OQLfAiW7nuAhdNWRlVcwW9og",
+width: 2448
+}
+],
+place_id: "ChIJBQA3D6PMj4ARetqtcBmIkR8",
+price_level: 2,
+rating: 3.3,
+reference: "CmRcAAAAQk06zdKuVAhYdhgJ17mUh7sgzCr_2Jpa3P1GnKEuyVf_bVWi9aC_anxs1vlEw4F7C_xLLQG5dpTmL9mD7rsyZmT8yHgmPPnt6qU46mz-TRko3SAAWzvCcbMLlaDVTtDfEhBMVl-cWhEMl7QIq1ddYZJAGhT1tT4pwTo4fGeqUM4Vmt0Z5JLq6Q",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "101 East Santa Clara Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.333473,
+lng: -121.884968
+},
+viewport: {
+northeast: {
+lat: 37.33387365,
+lng: -121.8849494
+},
+southwest: {
+lat: 37.33333944999999,
+lng: -121.8850238
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "683e55a1e9fb74d0ebddd239e48c46942d960468",
+name: "Philz Coffee",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 3024,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/118010347509792120747/photos">Sang Yoon</a>"
+],
+photo_reference: "CoQBcwAAAOrKKsGP4HOE82AGxVqgafwFQ4KTNN7v685Jp4R1-Zc8UDCOVzi4UbEp1JOH6ZbD07XTqMsgVMK6Rojcm5if2KjRt5Cam9Jx-Nwg9WJL7gtGZAQy_-e8M4AIEUjDaEhxsVr66NN7NsXZe_EODBnu_P6Nwcti1YafPBZjvjSLLaM8EhCZo3vC4riU_JGIRDtPpuIWGhRjm3KDB1L3xwY4sEe866UxfR5yvw",
+width: 4032
+}
+],
+place_id: "ChIJt_gW1bvMj4AR6XY_0N9JiqQ",
+price_level: 1,
+rating: 4.5,
+reference: "CmRgAAAACX3iVEXlSjZCu0RWCNQSlJiAY3OtJSwmjJf6ekkQaeNo1Kk4UxzcFOWPbmO0AVSTPY2J4DWpfuecn5nHyw-GJMrXeSIYOPrLhSv3udeN83nXc2xISY1hKligl6RgUG09EhAAWDmBbIo1ivRDHfzMce32GhQxM4Y7GVru9624vswZyaODhW3sFg",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "118 Paseo De San Antonio Walk, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3334301,
+lng: -121.8873308
+},
+viewport: {
+northeast: {
+lat: 37.33363535000001,
+lng: -121.8868595
+},
+southwest: {
+lat: 37.33281435000001,
+lng: -121.8887447
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "db261476802ce4986b1581d3cc9900565f1e6cc5",
+name: "Starbucks",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 1536,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/101754844527563613725/photos">Giulia Pedezzi</a>"
+],
+photo_reference: "CoQBdwAAAGp5W2t9WrLro8MR_nnkWU4Mox1rqKalFVb6fQGDgcw2oETXsFNowtlrm5ebNMGtDocS4twJsQTPAtWplEIJWLtd2SGzak4yq8vY_iVkeXHRkpeZRGNAqP6GF24UeK3leCb1C-fXF-dxXSsNHLtZuYaLes0qeei2jPUu572R7cXlEhDMoIcEHqdUVJQcVRxQKQLFGhRCyren2pp5FEJ6_UO6q2O0uzINcQ",
+width: 2560
+}
+],
+place_id: "ChIJBQA3D6PMj4AREy_u87nip3U",
+price_level: 2,
+rating: 4,
+reference: "CmRcAAAAikXnGPhbgT5tiP7xal7rcCkFNbQOJ-oaxqtJkFIMt5kWuw3OBCExsS_k69aThkT7ksKJ_6S4_kbNP2hc4_IlPAO0qw_MITC-CBpb1ZXkb3JOZGm7-HFXeb5HLoU9gFtQEhDHZ9Q9a6GtesxS5WefgzLSGhR-N-6Zm_NbQDFlZjCvNG3Ac9fuHQ",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "150 South 1st Street #135, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3322748,
+lng: -121.8860061
+},
+viewport: {
+northeast: {
+lat: 37.33229675,
+lng: -121.8859197
+},
+southwest: {
+lat: 37.33220895,
+lng: -121.8862653
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "892c81273ab5e29c3e049b60fa541ec21b89038a",
+name: "Psycho Donuts",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 3120,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/104409702597682673587/photos">Sina Ferdosi</a>"
+],
+photo_reference: "CoQBcwAAAINEvb_y-CpgU6jhmuOawzuIh1qR2YGK6eArCGWhL3MlYvZvJUmKLcIKPg_LA3GP2JVpfZOv6q5huIuPgsHZKJ1saP1K1-1TfxBNaTQv-hR3IvZtPyAZCZ3ojk3SYGVl61yN8YfF6jQ3HKoAPZ1pn48ea6fWer4gAMEWe9kIYH4cEhD90vsBuFyL-smmV9ucKz5TGhT7zOTY0Ha9jjhwYre5zCU4ATwMOw",
+width: 4160
+}
+],
+place_id: "ChIJaxenQLrMj4ARob4O8-z1Pjc",
+rating: 4.2,
+reference: "CmRgAAAALAYblw6VWMk8BlFmEjbUyXtLBTxOcYulaToRPfMqkWzECRu34ND4eWofyFJYgiHFp4DXTnSZsE9IKzZBEjR3f0utP8NrRpQdc8v-JtMot-pog09EOmwhkV2ZAeUdLuWyEhCZvW9x88QS5T5iO8AYjWozGhTa_jVNG6VQlhIe5a9ZG5j-TNxlkw",
+scope: "GOOGLE",
+types: [
+"art_gallery",
+"bakery",
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "288 South Second Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.331145,
+lng: -121.8870726
+},
+viewport: {
+northeast: {
+lat: 37.33126485,
+lng: -121.88682435
+},
+southwest: {
+lat: 37.33110505,
+lng: -121.88715535
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "7d65b1e8d48b776d850ab38fb46faf916b90eca0",
+name: "Caffe Frascati",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 2362,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/113479391387252795134/photos">Austin Camp-Sassarini</a>"
+],
+photo_reference: "CoQBcwAAAJCfUEV1fWmiw89fMBvl4MA7N2KIPSJhOu_PLcXin17AVcOvukGmCn_ZYjn2gMx2pxQE-FtiudlxMU0-lKNt7AQrEgmYdd0Wonph05d1On9e0m_Cj0y700kp69hn6GghyWrS94PiWs0upcYKrbT1ZG_VVfPlKUggZnF_lYpZ-1-6EhCXQEbBk4Qks4Mf1jOKycxtGhShfMrh3v3XOLJmHx8we9jGEl5CmQ",
+width: 3150
+}
+],
+place_id: "ChIJOwY7ZbrMj4ARzqsSZfJgTsU",
+price_level: 1,
+rating: 4.2,
+reference: "CnRiAAAAMXvp9R0ira08j4Z7xuk2_1yaJZAte1tIEzeK_TOEeZibMyQpXixeAUuSX9XQIoDhIJn6J5IZ80kvHegoBtsQ7NX5INraYqJ9trAHyV_qrlq42UAbkOloS3Lc4BA4rguUDZVdNDO-wRLDzds0dn2tKBIQKAVrQLSeMEkC6EGH9xya-xoUhWeNqmTnhSNyDF631j10Pi4ekDE",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "315 South 1st Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3405103,
+lng: -121.8804268
+},
+viewport: {
+northeast: {
+lat: 37.34120160000001,
+lng: -121.88024805
+},
+southwest: {
+lat: 37.340084,
+lng: -121.88096305
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "eaab1596ffa388849e7c4116750189087cd580b0",
+name: "7-Eleven",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 707,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/103289735484739563695/photos">7-Eleven</a>"
+],
+photo_reference: "CoQBdwAAANeGNM32vyQOwg2kdOlK6S9FMkmOQuQwPVuepB6K9xU6Hf1sN6iaA5ykFA-cNcRJO4B7qrzv5Mqo2VLP-fLsqJWrYzJdNFgUAMtqWeBSjb-ogCRHu8WVfwRy9loBsZvUdESAyvRFo9u8lICW-g4gldX8OGDqgia2nC-FSUFLdhkwEhBV64CQ8ZOFi6ZGpohVN65-GhTZOp4QyA_5AIZEeg6U06G5KMO5aw",
+width: 695
+}
+],
+place_id: "ChIJM5zmvb_Mj4ARtKD4epczENI",
+price_level: 1,
+reference: "CmRcAAAApaYOH158MIIPIRcQMezA2nZt8ol7g9bn4SLHpkJ0Uw_FHMgrha3afG-VgptUulaYsg77pT2bCBpb-sbSyb81TUDNfnjzT27RaObInhfuUT1vT4Jr5h-WD9LrXKOeMH6jEhBbvgTJMUUa23i_q8-foZPuGhRwOvvimGV32RUw2M9gzk6rKPWVqA",
+scope: "GOOGLE",
+types: [
+"convenience_store",
+"cafe",
+"restaurant",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "452 East Santa Clara Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3336392,
+lng: -121.884776
+},
+viewport: {
+northeast: {
+lat: 37.3338183,
+lng: -121.8847678
+},
+southwest: {
+lat: 37.3335795,
+lng: -121.8848006
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+id: "c472164d4f0bf399837194ab115fc1ee9dbc6743",
+name: "Quickly",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 2340,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/105928811308006518314/photos">Minh T. Nguyen</a>"
+],
+photo_reference: "CoQBcwAAALZ-pXJIn0WE0Ul3x43G4FkTHNDOJCmIqrCOYWCAhH21mlC7IGeHpmK5AEvcbUlBnaEr4rXevNZyzW4TzvwML2LbmBm3BQIxI7-q-lv78uwfG3rwvsFLUYIgJhCZj_SjXkw_m-wH6zhcW5I8hKEEg4SSEEXMOw5JQ1o2BnY6V04nEhCfuQpnoljZ7GHJXjAf8w4sGhQFSi2yBRnYBWIHUlQ1RNa1Tof_Pw",
+width: 4160
+}
+],
+place_id: "ChIJGTNUfrnMj4ARyffBSDldPVI",
+price_level: 1,
+rating: 3.3,
+reference: "CmRaAAAAu8wNgFFo84SjLGhup4ZZHOaaLIc1gpMouhh8QdgK-W8UPT7C48HZcvkcFWAHnS32xf5JoUIrECvlwT9JRdqbVZMJFoeo4hsf7MTLxXn16_f5XCjYK-azG00l_9GXMp00EhCnp8-oKRHkeBBDU6F9kt8nGhTLcYl3ImAEvisHmEzyBPy5YmHuQw",
+scope: "GOOGLE",
+types: [
+"cafe",
+"restaurant",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "140 Paseo De San Antonio Walk, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3360631,
+lng: -121.8900539
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "eba999f8d208f89f564008b83f87829c0f078256",
+name: "Ola's Exotic Coffee & Tea",
+place_id: "ChIJtQC8zLzMj4AR3l5ywKtHgkk",
+reference: "CnRsAAAAC5SXMl03R5VFsmkXqSgJ3eNhmQjU3Y33EBBa-NV96g7KC9qeT0f9Upk6yyDFva2GGtcu5f4Nue3D0wUj8g009fPV0JXyP8ardbz5kaPGHlWrKyauYS8KS6H9hMovNo1MAwl6vrQmpiSXAut_AeCViBIQGg0NTWlEo6fZGhsqBFgP0BoU9FjB_EJEVDZOSkj_UT6hk-ffw8E",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "12 South 1st Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3353424,
+lng: -121.8928255
+},
+viewport: {
+northeast: {
+lat: 37.33542860000001,
+lng: -121.8926278
+},
+southwest: {
+lat: 37.3350838,
+lng: -121.8928914
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "6bd679d0230fd2633ed0d5d89c6ed24ca5029eeb",
+name: "Starbucks",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 2432,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/101038799726690326104/photos">Dan Brown</a>"
+],
+photo_reference: "CoQBdwAAAErDkgnDWmDPTDk1A9SRuJJ04CsGcbIbdikd1Z_j9mZowQHdeUMg7yd3ignB5eLHPVqitg980LA_IpxcB5A6JsTS3eQtNL8w1ZKdb72NOBhUyxU_NSmhxprgOVl_GYid3zIsE4bvxhyL4Cq5jbluI6P8nw9KexnnTR54gs-gmOWzEhBc9Ld28QZQlX-X4A_mQZLoGhQUac-NafCHuREXMC8gOukOMMo6eA",
+width: 3286
+}
+],
+place_id: "ChIJBQA3D6PMj4ARvEAsAwRZbaI",
+price_level: 2,
+rating: 3.8,
+reference: "CmRdAAAAfV7T0F1VYNFIhoqh-JWkm_0VzPq6d9rem-WNTRcZMrA3DTzzDbX8DWcj_1TEoA36UiqLnIUzmJ2jiVV6sZbi5VXWrTG69vvqvElbPdzwq20RW9IaaOI0kgg65vnEuzzREhCFzCT7lIyBc-dkMXiz0c94GhT5k7edV5Kh-dgxOK5rSdYuSFPJeA",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "145 West Santa Clara Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.333511,
+lng: -121.8902188
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "6f69fb5d7fd573290148d7385e599bb5875898c1",
+name: "Cafe Too",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+place_id: "ChIJ2e89s6TMj4AR_fe4KugIzS8",
+price_level: 2,
+reference: "CmRbAAAAzJfuyDcxqlb5OPO62PGm1tNniGNMqcmSjaWqHJViiR_FXtUDctwhMgAt5OFVyPtsIXE8lK5exgLWvP7vUHDlusGcmq1bIiPQB8rEqP3ybDsuXa92__pnr9wphYdOMJSGEhARHXCPyjaXkz4S5v2mIMrGGhRDtmeI_P009JgLeHA_98c8MJlIjg",
+scope: "GOOGLE",
+types: [
+"cafe",
+"restaurant",
+"food",
+"point_of_interest",
+"establishment"
+],
+vicinity: "110 South Market Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3328675,
+lng: -121.8755113
+},
+viewport: {
+northeast: {
+lat: 37.3329503,
+lng: -121.8753876
+},
+southwest: {
+lat: 37.33283989999999,
+lng: -121.8758824
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "449a32078b3a2e84db556cabe9d373aaf6fe9650",
+name: "Corner Deli & Grill",
+opening_hours: {
+open_now: false,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 2340,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/118258899188106145120/photos">Devin Taylor</a>"
+],
+photo_reference: "CoQBdwAAAPxohZajAkUW298qf1mYRYWgveDxbLVp500H4f2uhTEnKpBVARtL2SC0LEjMwJzyZToMG8tUe95hQBkACYFj7yLSpih1xakiKVl4UldSoMboFol6shs-uhpLbSDf-KIbD6uj1rUlUx60xgBxi_7-nG3rALlEj0YhlnY8Dfyve2C-EhDdKXp04rbjiK5fg4bpsIDkGhTZvZn9yomfjd5lE9IFpsXcP4KHfw",
+width: 4160
+}
+],
+place_id: "ChIJmVAajcjMj4ARJDKCxU4lEgE",
+rating: 4.6,
+reference: "CnRmAAAAtN0pasaWlA4SCvpjkWa0oV4SUgSojpDrqZzIUbUJGQrVqDPrD17q_y05Kq4sENEJA0gCbocE9rsN3LcD7KEt_Vya_25JxF_LrGPaeNA6opce1FN0r82iZDeiYnbZZ3qyQrNiwk_c0BpvNFYIHNDZGhIQRyQCosk1IS_4GcnZaz734xoU45lhlRL_0DS7FwoutV6gboNcnlY",
+scope: "GOOGLE",
+types: [
+"cafe",
+"restaurant",
+"food",
+"point_of_interest",
+"establishment"
+],
+vicinity: "414 East William Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3335387,
+lng: -121.8850891
+},
+viewport: {
+northeast: {
+lat: 37.33384665,
+lng: -121.8848842
+},
+southwest: {
+lat: 37.33343605,
+lng: -121.8851574
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "3996e789e0a7467a2a2f36820ecc2351ac684298",
+name: "La Lune Sucrée Pastry Shop San Jose CA",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 711,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/112617736929525333627/photos">La Lune Sucrée Pastry Shop San Jose CA</a>"
+],
+photo_reference: "CoQBcwAAAHV5Wgx8y1DsNU0qQN8ldCWIsA4AxcD3bOAh3b858Y9xtNIPwAv7-QCqmqzkFjk4-y4NEkbwR8SNlJWjNPbAbHf3_cjiTtk89ctk3G4zzJRlVvF_vPQSFQovrCJaSOf8lLtwMCaLUtf9vA4CBKEbByPrsyGHCcDb4PT5bvJZwO6zEhD4YDP3cF1crrUzU6iyY_mDGhTHKG4OADvhVO49U9MCHOYq6z48LA",
+width: 710
+}
+],
+place_id: "ChIJA0E51LvMj4ARaH1p_PQ9Hpg",
+price_level: 1,
+rating: 4.2,
+reference: "CoQBewAAAD9cKu1Dhmb6AVZAkdI1-W1CYxt7OZwU8HSmJoj4g3Lxglnu6BBZYTStkvKrqbWhKwqpJ8XuMs4VvMEdlVY-WYqxNKA1HptOBUcnBmwLnS0BvEJbJL94W0alrVi1b4pAh53_MA1Q1c2RUUYTzAoFkQi1uuafKtefVp7v3oglPt5_EhDUErs2hDxzL86YGzOg9DA1GhSdK6ZFToMhGCOz0LiY8KChoMtaLQ",
+scope: "GOOGLE",
+types: [
+"cafe",
+"bakery",
+"restaurant",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "116 Paseo De San Antonio Walk, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.33695700000001,
+lng: -121.876413
+},
+viewport: {
+northeast: {
+lat: 37.33704820000001,
+lng: -121.87625275
+},
+southwest: {
+lat: 37.3366834,
+lng: -121.87689375
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "2ec4afea474e43971880b42b12790879191558dd",
+name: "7-Eleven",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 4032,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/110796382494248671176/photos">Ibrahim !</a>"
+],
+photo_reference: "CoQBdwAAAHRVdbpEEWGbdJ_oyIoi2Pq00vTZHvLC87MrkMKgLDwwLV83gbxQmiFPN5_0H0PpPwaTkxGEB4TawG52j1RgahIVtPXHmczr7hDv6THqxvRty1hs9w5TnrAXptSinfL8R2XMvn6QMm01M5HZeASe1DU79sU3XS5u37QC3k6CrW_OEhBrwZo8dcDwkVPdb1kTSa8zGhT14Dq_5GXCFOCOl6FlPnMob6C7-g",
+width: 3024
+}
+],
+place_id: "ChIJM5zmvb_Mj4ARPQuLPcPUfko",
+price_level: 1,
+reference: "CmRbAAAApBma7lWxGol-DLY1TBGdJG6KI5YniQBDbEXeAWV9YPIneVAEo0kkNdeUKQMjBqymskjpg2LtP8HqhyRyIU1PApsnVy__tyk08CzNK1T84yKYDzfBsunPcFybHshxm3E5EhAHOIXPRqjIyintXJLDxnOkGhSErCa0OYXa_GuSJj1-IdNGTAdbzg",
+scope: "GOOGLE",
+types: [
+"convenience_store",
+"cafe",
+"restaurant",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "284 South 11th Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.33528709999999,
+lng: -121.8865985
+},
+viewport: {
+northeast: {
+lat: 37.33559895000002,
+lng: -121.886518
+},
+southwest: {
+lat: 37.33518314999998,
+lng: -121.88684
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "87faa697576f670e67d1cff66e17fa9348e6a9bc",
+name: "Amor Café and Tea",
+opening_hours: {
+open_now: false,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 1360,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/112639523971577761178/photos">Amor Café and Tea</a>"
+],
+photo_reference: "CoQBcwAAAAWwG-eeeUmvKY_FXkuWyGivKF2VvwTxm6fvd88y_vyu2EUHoZAk1OeOev-iJLAGF4qXxIUabpTlpVdYNNICJOuUXcp9aJDFamJ-ulBDP1nFL_JmCGLjdw7K1OVMrS2eBHxkZLCs5wVtYipM7QoLodFhj5fak1DSTTAtw2ZDmNUjEhAa3sjcV-NTZ9l3aK1pCxwgGhTU92REiRb_EaOHv7_vMgAWSajJMQ",
+width: 2048
+}
+],
+place_id: "ChIJZcW4ibvMj4ARVWbQpM4vaXQ",
+rating: 4.1,
+reference: "CnRlAAAA_yVF0SZr2FB78RADqeG9wV6haawuIbGDGWI3dZBB-0bq_m26kMyE-RmtEzMnSm2GPJizHisD9TLEUX7BiD9ARmJ_MEsP_M0UyOHKcO9UD_55hIRCAy9D3L7DbgDBi9vCjn5cwQTmZhcr8l2bbHltvhIQWIvDuXkCOeVmPHuXf6opxxoUa6N7QNgdmceJRaQjSCBHV6cXTSk",
+scope: "GOOGLE",
+types: [
+"cafe",
+"bakery",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "110 East San Fernando Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3355313,
+lng: -121.8854466
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "abd232e03f65c2829aa1c725cc8e00fd4ff7dfd9",
+name: "On Fourth – A Novel Café",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+place_id: "ChIJIwRZ97vMj4ARIMH020Q14xo",
+rating: 3.8,
+reference: "CnRuAAAAAT-Ic7ggbqg16dbVGocSHxfnRQVHhQUjXMaOO3zH_ZMRMn2D4_xtUsx0taaI7eevpuWBnvI6Xbodn0hcI7PDake6HT_L5YrcU7l6Pns91osSvOgqav8f7DSG7Zd3uvRg0T8Eo86hGDpeL0qzeDEDrRIQk61gpTS_Pj9HFi5CTlgq7BoUHpf1OvvO0XiXeZ_wqeUJRBDUsHk",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"point_of_interest",
+"establishment"
+],
+vicinity: "150 East San Fernando Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3323918,
+lng: -121.8914007
+},
+viewport: {
+northeast: {
+lat: 37.3328763,
+lng: -121.89005805
+},
+southwest: {
+lat: 37.33223029999999,
+lng: -121.89184825
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "c12f7bacd97627acd4528e0352534366cdaba5c0",
+name: "Specialty's Cafe & Bakery",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 1782,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/112672963905993883214/photos">Ben Reaves</a>"
+],
+photo_reference: "CoQBcwAAAJfCyQXnCRXv8ceBbhOy1EKvFprAD2E629BF9avkiq6aEfQEHDwDWLgCMCGdHvgUNL_L4LHg8TsAyRjbQsxO8xa60j4Fw4IACW8MzIt7e8uZ85qyn4ecX1tvouXHqTxXtKo-ew3FMjBrybeXEZx4WMmmns81ArC8DOxMq8pOThyiEhDA9Cq0fc_Ozr8mc0lCF19fGhTSci_0uTkEqJ5xf08cjyw2wqoMuw",
+width: 4096
+}
+],
+place_id: "ChIJD_4GtaTMj4ARrpmtpYG8hDE",
+rating: 4.1,
+reference: "CnRsAAAASFxNl95_DFNZs5wXfgsoasewHytrHKKpf6pfhMxHn0NV066q6FwJUPrZ96Wpn05ASQE4d-a8MHNeFpBRsyZZ1gmrRSvQcxOxfWsk6yDdGNjXdUAhs_ZDbqIZep_BzA2YKeahkAV0CeE3hAXa4x-oGRIQd-1cGazXY8u8LWqTmB2naBoU3V9yCVI9Bvg9QfXIPTr_YLMYa1A",
+scope: "GOOGLE",
+types: [
+"cafe",
+"bakery",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "115 South Market Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3355091,
+lng: -121.8850449
+},
+viewport: {
+northeast: {
+lat: 37.33639109999999,
+lng: -121.8848233
+},
+southwest: {
+lat: 37.33521509999999,
+lng: -121.8857097
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "f3df17e599f04f4b0e1a6dc6b4f5e9e7b1b69380",
+name: "Tully's Coffee",
+place_id: "ChIJmX9x_LvMj4ARpeiBoLs3nmQ",
+reference: "CnRhAAAAvMIkiKbNIHwXQfcGaAP-hiMmYxLG4fFQBTtlxXda4EkulrEs50YAH-UXvHdzR83Tqfbj4WmkdYqM6aefNBQF6ytzfzV0lBYTGAI7k5G0iKtFt-AdLy-m9zdjdAntNSZZXodA_TESe-MdyucYwcg1JxIQfkTySjMYJoQQP2Nq9mNa5BoUTbJ8yCIuewjdm3rF46T8ncwcWg8",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"point_of_interest",
+"establishment"
+],
+vicinity: "150 East San Fernando Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.332404,
+lng: -121.8845785
+},
+viewport: {
+northeast: {
+lat: 37.3324703,
+lng: -121.88444705
+},
+southwest: {
+lat: 37.3322051,
+lng: -121.88497285
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+id: "cd15382ca374fc76d44e607f70eba51f815cbe6a",
+name: "Boba Bar",
+opening_hours: {
+open_now: false,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 2988,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/107245917550306912165/photos">Sel am</a>"
+],
+photo_reference: "CoQBdwAAAIIl8UPnUz7kMigiRDtzbWgiDklVlayF265R-jMxTGvIpiAq4NtWrjZz6_pAuxWmzeUeHtvJqsOIBOlXENN-Jbz7LM7V6WoSiB40nWHudatXZpRHcqw4xXO_5_8KNvZoFmtznxbWf-Rmx4wtnEx_nRQXvc6ON-_p5HKa5kOGH4dOEhA1mwORMoLxpSZBnr8fYobZGhS-xAgNyOjwLnPpio1DOiITI_hscA",
+width: 5312
+}
+],
+place_id: "ChIJCbM49bnMj4ARVDw_01uK6Xw",
+price_level: 1,
+rating: 4.2,
+reference: "CmRbAAAA6HsLkvzbu9ZbzJTHC0Tygz-KyaiQ4uXpXC4UaWxXiXluz4nmRZZlNdxB_VxCops9W2jr3oN88o1GD0ijS76Uf0V65RnJG235G6Qg4oEtta48u1Fm4oFpw17lOtwHtQvMEhDUOs-A_NfqKCCu4KogargOGhQa-YFF-blms3_qVOyxr847SrvUVw",
+scope: "GOOGLE",
+types: [
+"cafe",
+"food",
+"point_of_interest",
+"establishment"
+],
+vicinity: "310 South 3rd Street, San Jose"
+},
+{
+geometry: {
+location: {
+lat: 37.3326413,
+lng: -121.8800941
+},
+viewport: {
+northeast: {
+lat: 37.3327388,
+lng: -121.879856
+},
+southwest: {
+lat: 37.3323488,
+lng: -121.8808084
+}
+}
+},
+icon: "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+id: "ff6eff341b61e3f0586259bea29d825ba5267d2d",
+name: "7-Eleven",
+opening_hours: {
+open_now: true,
+weekday_text: [ ]
+},
+photos: [
+{
+height: 707,
+html_attributions: [
+"<a href="https://maps.google.com/maps/contrib/102974236983171264514/photos">7-Eleven</a>"
+],
+photo_reference: "CoQBdwAAAKNqXtF5RfO2FkXu0FUmW-EbmZAC665hhwtoyUhSmplyU0SzhIRKCVzLDyA6y535cx429Yo0ut_dvYyL_Lq_9NQCxHduwzYOLLoav9HX_Y6Dfa20dqXqzthhvOO3Poi-12UvB2BCNXsd3LsWG4_j9QejYiUJWMrPsRHJi6WaUAOpEhDPe7kUnTzf9sJv9HzxRzsPGhRcKR-B0ZkaKllbnLwf9CFLeiRNxQ",
+width: 695
+}
+],
+place_id: "ChIJM5zmvb_Mj4ARl3K1OSDhEOA",
+price_level: 1,
+reference: "CmRcAAAA-FUchjtuaBuCKvML6-MCwBdHjWEjwRPtKU9_f1okL8tFqWiQMtl_DkRhH6IlXs2jcb3cySOq1lTk-nhF3d_uVBq2pjjVv231WctHoGr9CQrIqbSy1eLob7p-6sY4h768EhDihY3Pyc8XCPa7pVhV9BZhGhQ9HxJh8Nw2kqrTBF62Y6KAh2HErg",
+scope: "GOOGLE",
+types: [
+"convenience_store",
+"cafe",
+"restaurant",
+"food",
+"store",
+"point_of_interest",
+"establishment"
+],
+vicinity: "404 South 6th Street, San Jose"
+}
+],
+status: "OK"
+}
